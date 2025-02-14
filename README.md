@@ -39,7 +39,7 @@ AtlasX is a full-stack application that leverages AI to create personalized trav
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/AtlasX.git
+git clone https://github.com/professor-icebear/AtlasX.git
 cd AtlasX
 ```
 
